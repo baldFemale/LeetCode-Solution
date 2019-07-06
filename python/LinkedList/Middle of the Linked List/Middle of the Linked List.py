@@ -5,16 +5,15 @@
 
 
 class Solution(object):
-    def reverseList(self, head):
+    def middleNode(self, head):
         """
         :type head: ListNode
         :rtype: ListNode
         """
-        pre = None
+        slow = head
+        fast = head
 
-        while head:
-            temp = head.next
-            head.next = pre
-            pre = head
-            head = temp
-        return pre
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+        return slow
