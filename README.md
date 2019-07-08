@@ -19,7 +19,7 @@
 | 14 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py) | Medium |
 | 15 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Insertion%20Sort%20List/Insertion%20Sort%20List.py) | Medium |
 | 16 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Sort%20List/Sort%20List.py) | Medium |
-| 17 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reverse%20Linked%20List%20II/everse%20Linked%20List%20II.py) | Medium |
+| 17 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reverse%20Linked%20List%20II/Reverse%20Linked%20List%20II.py) | Medium |
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
