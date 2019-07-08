@@ -16,3 +16,23 @@
 | 11 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Swap%20Nodes%20in%20Pairs/Swap%20Nodes%20in%20Pairs.py) | Medium |
 | 12 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Odd%20Even%20Linked%20List/Odd%20Even%20Linked%20List.py) | Medium |
 | 13 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.py) | Medium |
+
+## HashMap
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 982 | [riples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+
+## Sort
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
+
+## Graph
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Cheapest%20Flights%20Within%20K%20Stops/Cheapest%20Flights%20Within%20K%20Stops.py) | Medium |
+
+## Dynamic Programming
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
