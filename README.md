@@ -21,7 +21,7 @@
 | 16 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Sort%20List/Sort%20List.py) | Medium |
 | 17 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reverse%20Linked%20List%20II/Reverse%20Linked%20List%20II.py) | Medium |
 | 18 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Remove%20Duplicates%20from%20Sorted%20List%20II/Remove%20Duplicates%20from%20Sorted%20List%20II.py) | Medium |
-| 19 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Cycle%20II/inked%20List%20Cycle%20II.py) | Medium |
+| 19 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.py) | Medium |
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
