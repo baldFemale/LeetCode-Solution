@@ -54,4 +54,5 @@
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
+| 1 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
+| 2 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
