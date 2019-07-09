@@ -24,10 +24,17 @@
 | 19 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Remove%20Duplicates%20from%20Sorted%20List%20II/Remove%20Duplicates%20from%20Sorted%20List%20II.py) | Medium |
 | 20 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.py) | Medium |
 | 21 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reorder%20List/Reorder%20List.py) | Medium |
+
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+
+## Binary Search
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
+| 2 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -43,3 +50,8 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
+
+## Heap
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
