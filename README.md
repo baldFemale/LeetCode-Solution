@@ -49,7 +49,8 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
-| 2 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
+| 2 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
+| 3 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
 
 ## Graph
 | Recommend Order | ID | Title | Solution | Difficulty |
