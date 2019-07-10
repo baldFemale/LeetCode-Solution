@@ -45,6 +45,12 @@
 |:----|:----|:----|:----|:----|
 | 1 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
 
+## Union Find
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
+| 2 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
+
 ## Graph
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
