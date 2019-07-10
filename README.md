@@ -24,6 +24,10 @@
 | 19 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Remove%20Duplicates%20from%20Sorted%20List%20II/Remove%20Duplicates%20from%20Sorted%20List%20II.py) | Medium |
 | 20 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.py) | Medium |
 | 21 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reorder%20List/Reorder%20List.py) | Medium |
+| 22 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Rotate%20List/Rotate%20List.py) | Medium |
+| 23 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reverse%20Nodes%20in%20k-Group/Reverse%20Nodes%20in%20k-Group.py) | Hard |
+| 24 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Merge%20k%20Sorted%20Lists/Merge%20k%20Sorted%20Lists.py) | Hard |
+| 25 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Random%20Node/Linked%20List%20Random%20Node.py) | Medium |
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
