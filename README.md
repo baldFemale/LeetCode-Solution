@@ -28,6 +28,7 @@
 | 23 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Reverse%20Nodes%20in%20k-Group/Reverse%20Nodes%20in%20k-Group.py) | Hard |
 | 24 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Merge%20k%20Sorted%20Lists/Merge%20k%20Sorted%20Lists.py) | Hard |
 | 25 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Random%20Node/Linked%20List%20Random%20Node.py) | Medium |
+| 26 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/LRU%20Cache/LRU%20Cache.py) | Medium |
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
