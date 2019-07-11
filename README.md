@@ -52,7 +52,9 @@
 | 1 | # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
 | 2 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
 | 3 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
+| 4 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
 
+ 
 ## Graph
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
@@ -61,7 +63,9 @@
 ## Dynamic Programming
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
+| 1 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum/Minimum%20Falling%20Path%20Sum.py) | Medium |
+| 2 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Knight%20Dialer/Knight%20Dialer.py) | Medium |
+| 3 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
 
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
