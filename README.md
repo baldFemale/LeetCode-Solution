@@ -37,8 +37,10 @@
 | 2 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Baseball%20Game/Baseball%20Game.py) | Easy |
 | 3 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Remove%20Outermost%20Parentheses/Remove%20Outermost%20Parentheses.py) | Easy |
 | 4 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Backspace%20String%20Compare/Backspace%20String%20Compare.py) | Easy |
-| 5 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Queue%20using%20Stacks/Implement%20Queue%20using%20Stacks.py) | Easy |
-| 5 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.py) | Easy |
+| 5 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Min%20Stack/Min%20Stack.py) | Easy |
+| 6 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Queue%20using%20Stacks/Implement%20Queue%20using%20Stacks.py) | Easy |
+| 7 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.py) | Easy |
+| 8 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.py) | Easy |
 
 
 ## HashMap
