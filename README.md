@@ -42,11 +42,16 @@
 | 7 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.py) | Easy |
 | 8 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.py) | Easy |
 
-
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+| 2 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
+
+## Tree
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
 
 ## Binary Search
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -58,6 +63,8 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
+| 2 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
+
 
 ## Union Find
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -79,6 +86,7 @@
 | 1 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum/Minimum%20Falling%20Path%20Sum.py) | Medium |
 | 2 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Knight%20Dialer/Knight%20Dialer.py) | Medium |
 | 3 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
+| 4 | 1125 |[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
 
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
