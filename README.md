@@ -51,7 +51,7 @@
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
+| 1 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
 
 ## Binary Search
 | Recommend Order | ID | Title | Solution | Difficulty |
