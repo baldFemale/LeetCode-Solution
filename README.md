@@ -1,5 +1,10 @@
 # LeetCode-Solution
 
+## Array
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/aximum%20of%20Absolute%20Value%20Expression.py) | Medium |
+
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
@@ -41,12 +46,14 @@
 | 6 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Queue%20using%20Stacks/Implement%20Queue%20using%20Stacks.py) | Easy |
 | 7 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.py) | Easy |
 | 8 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.py) | Easy |
+| 9 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Minimum%20Cost%20Tree%20From%20Leaf%20Values/Minimum%20Cost%20Tree%20From%20Leaf%20Values.py) | Medium |
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
-| 2 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
+| 1 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
+| 2 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+| 3 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
 
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -65,6 +72,10 @@
 | 1 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
 | 2 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
 
+## BFS
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
 
 ## Union Find
 | Recommend Order | ID | Title | Solution | Difficulty |
