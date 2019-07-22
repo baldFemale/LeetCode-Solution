@@ -3,7 +3,11 @@
 ## Array
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
+| 1 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sort%20Array%20By%20Parity/Sort%20Array%20By%20Parity.py) | Easy |
+| 2 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.py) | Easy |
+| 3 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Array%20Partition%20I/Array%20Partition%20I.py) | Easy |
+| 4 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sort%20Array%20By%20Parity%20II/Sort%20Array%20By%20Parity%20II.py) | Easy | 
+| 5 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
