@@ -3,7 +3,7 @@
 ## Array
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/aximum%20of%20Absolute%20Value%20Expression.py) | Medium |
+| 1 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
