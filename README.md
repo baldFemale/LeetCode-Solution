@@ -67,8 +67,10 @@
 ## Binary Search
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
-| 2 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
+| 1 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
+| 2 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
+| 3 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
+| 34 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
