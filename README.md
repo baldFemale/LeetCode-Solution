@@ -60,8 +60,9 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
-| 2 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
-| 3 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
+| 2 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Binary%20Subarrays%20With%20Sum/Binary%20Subarrays%20With%20Sum.py) | Medium |
+| 3 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+| 4 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
 
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -79,8 +80,8 @@
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
-| 2 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
+| 1 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
+| 2 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
 
 ## BFS
 | Recommend Order | ID | Title | Solution | Difficulty |
