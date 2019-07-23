@@ -7,7 +7,11 @@
 | 2 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.py) | Easy |
 | 3 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Array%20Partition%20I/Array%20Partition%20I.py) | Easy |
 | 4 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sort%20Array%20By%20Parity%20II/Sort%20Array%20By%20Parity%20II.py) | Easy | 
-| 5 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
+| 5 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Fibonacci%20Number/Fibonacci%20Number/Fibonacci%20Numbe.py) | Easy |
+| 6 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Find%20Common%20Characters/Find%20Common%20Characters.py) | Easy |
+| 7 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sum%20of%20Even%20Numbers%20After%20Queries/Sum%20of%20Even%20Numbers%20After%20Queries.py) | Easy |
+| 8 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Height%20Checker/Height%20Checker.py) | Easy |
+| 9 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -70,7 +74,7 @@
 | 1 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
 | 2 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
 | 3 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
-| 34 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
+| 4 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
