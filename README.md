@@ -68,7 +68,7 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
-| 2 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/cramble%20String.py) | Hard |
+| 2 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
 
 
 ## Binary Search
