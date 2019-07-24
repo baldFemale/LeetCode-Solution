@@ -11,7 +11,11 @@
 | 6 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Find%20Common%20Characters/Find%20Common%20Characters.py) | Easy |
 | 7 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sum%20of%20Even%20Numbers%20After%20Queries/Sum%20of%20Even%20Numbers%20After%20Queries.py) | Easy |
 | 8 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Height%20Checker/Height%20Checker.py) | Easy |
-| 9 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
+| 9 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Fair%20Candy%20Swap/Fair%20Candy%20Swap.py) | Easy |
+| 10 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py) | Easy |
+| 11 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Monotonic%20Array/Monotonic%20Array.py) | Easy |
+| 12 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Duplicate%20Zeros/Duplicate%20Zeros.py) | Easy | 
+| 13 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
