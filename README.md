@@ -19,6 +19,8 @@
 | 14 | 457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Circular%20Array%20Loop/Circular%20Array%20Loop.py) | Medium |
 | 15 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)/Insert%20Delete%20GetRandom%20O(1).py) | Medium |
 | 16 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
+| 17 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted/Max%20Chunks%20To%20Make%20Sorted.py) | Medium |
+| 18 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted%20II/Max%20Chunks%20To%20Make%20Sorted%20II.py) | Hard |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
