@@ -115,13 +115,15 @@
 | 1 | # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
 | 2 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
 | 3 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
-| 4 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
+| 4 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Connecting%20Cities%20With%20Minimum%20Cost/Connecting%20Cities%20With%20Minimum%20Cost.py) | Medium |
+| 5 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
 
  
 ## Graph
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Cheapest%20Flights%20Within%20K%20Stops/Cheapest%20Flights%20Within%20K%20Stops.py) | Medium |
+| 2 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Parallel%20Courses/Parallel%20Courses.py) | Hard |
 
 ## Dynamic Programming
 | Recommend Order | ID | Title | Solution | Difficulty |
