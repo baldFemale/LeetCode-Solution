@@ -29,7 +29,8 @@
 | 24 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
 | 25 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted/Max%20Chunks%20To%20Make%20Sorted.py) | Medium |
 | 26 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted%20II/Max%20Chunks%20To%20Make%20Sorted%20II.py) | Hard |
-
+| 27 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Transform%20to%20Chessboard/Transform%20to%20Chessboard.py) | Hard |
+| 28 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
