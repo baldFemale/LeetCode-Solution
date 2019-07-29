@@ -136,8 +136,10 @@
 | 3 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
 | 4 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Number%20of%20Subarrays%20with%20Bounded%20Maximum/Number%20of%20Subarrays%20with%20Bounded%20Maximum.py) | Medium |
 | 5 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences/Distinct%20Subsequences.py) | Hard |
-| 6 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Stone%20Game%20II/Stone%20Game%20II.py) | Medium |
-| 7 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
+| 6 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Dungeon%20Game/Dungeon%20Game.py) | Hard |
+| 7 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Stone%20Game%20II/Stone%20Game%20II.py) | Medium |
+| 8 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py) | Hard |
+| 9 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
 
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
