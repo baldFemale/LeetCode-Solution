@@ -123,6 +123,8 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
+| 2 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
+
 
 ## Union Find
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -157,11 +159,13 @@
 | 12 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Frog%20Jump/Frog%20Jump.py) | Hard |
 | 13 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Can%20I%20Win/Can%20I%20Win.py) | Medium |
 | 14 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Guess%20Number%20Higher%20or%20Lower%20II/Guess%20Number%20Higher%20or%20Lower%20II.py) | Medium |
-| 15 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py) | Hard |
-| 16 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
+| 15 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard |
+| 16 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py) | Hard |
+| 17 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
 
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
-| 2 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
+| 1 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard | 
+| 2 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
+| 3 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
