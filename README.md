@@ -102,17 +102,19 @@
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
-| 2 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
+| 1 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Binary%20Tree%20Coloring%20Game/Binary%20Tree%20Coloring%20Game.py) | Medium |
+| 2 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
+| 3 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
 
 
 ## Binary Search
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
-| 2 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
-| 3 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
-| 4 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
+| 1 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Snapshot%20Array/Snapshot%20Array.py) | Medium |
+| 2 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
+| 3 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
+| 4 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
+| 5 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -126,6 +128,10 @@
 | 1 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
 | 2 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
 
+## Greedy
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Longest%20Chunked%20Palindrome%20Decomposition/Longest%20Chunked%20Palindrome%20Decomposition.py) | Hard |
 
 ## Union Find
 | Recommend Order | ID | Title | Solution | Difficulty |
