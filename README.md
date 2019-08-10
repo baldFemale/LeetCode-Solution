@@ -98,6 +98,9 @@
 | 3 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
 | 4 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Alphabet%20Board%20Path/Alphabet%20Board%20Path.py) | Medium |
 | 5 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
+| 6 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
+| 7 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Subarrays%20with%20K%20Different%20Integers/Subarrays%20with%20K%20Different%20Integers.py) | Hard |
+
 
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -121,6 +124,11 @@
 |:----|:----|:----|:----|:----|
 | 1 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
 | 2 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
+
+## DFS
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Unique%20Paths%20III/Unique%20Paths%20III.py) | Hard |
 
 ## BFS
 | Recommend Order | ID | Title | Solution | Difficulty |
