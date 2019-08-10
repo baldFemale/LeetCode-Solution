@@ -98,8 +98,14 @@
 | 3 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
 | 4 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Alphabet%20Board%20Path/Alphabet%20Board%20Path.py) | Medium |
 | 5 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
-| 6 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
-| 7 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Subarrays%20with%20K%20Different%20Integers/Subarrays%20with%20K%20Different%20Integers.py) | Hard |
+| 6 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Analyze%20User%20Website%20Visit%20Pattern/Analyze%20User%20Website%20Visit%20Pattern.py) | Medium |
+| 7 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
+| 8 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/String%20Transforms%20Into%20Another%20String/String%20Transforms%20Into%20Another%20String.py) | Hard |
+
+## SlidingWindow
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Subarrays%20with%20K%20Different%20Integers/Subarrays%20with%20K%20Different%20Integers.py) | Hard |
 
 
 ## Tree
