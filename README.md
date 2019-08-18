@@ -40,13 +40,14 @@
 | 35 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Search%20Insert%20Position/Search%20Insert%20Position.py) | Easy |
 | 36 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Decrease%20Elements%20To%20Make%20Array%20Zigzag/Decrease%20Elements%20To%20Make%20Array%20Zigzag.py) | Medium |
 | 36 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)/Insert%20Delete%20GetRandom%20O(1).py) | Medium |
-| 37 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
-| 38 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Swap%20For%20Longest%20Repeated%20Character%20Substring/Swap%20For%20Longest%20Repeated%20Character%20Substring.py) | Medium |
-| 39 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted/Max%20Chunks%20To%20Make%20Sorted.py) | Medium |
-| 40 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted%20II/Max%20Chunks%20To%20Make%20Sorted%20II.py) | Hard |
-| 41 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Largest%201-Bordered%20Square/Largest%201-Bordered%20Square.py) | Medium |
-| 42 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Transform%20to%20Chessboard/Transform%20to%20Chessboard.py) | Hard |
-| 43 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
+| 37 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Last%20Substring%20in%20Lexicographical%20Order/Last%20Substring%20in%20Lexicographical%20Order.py) | Hard |
+| 38 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
+| 39 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Swap%20For%20Longest%20Repeated%20Character%20Substring/Swap%20For%20Longest%20Repeated%20Character%20Substring.py) | Medium |
+| 40 | 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted/Max%20Chunks%20To%20Make%20Sorted.py) | Medium |
+| 41 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted%20II/Max%20Chunks%20To%20Make%20Sorted%20II.py) | Hard |
+| 42 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Largest%201-Bordered%20Square/Largest%201-Bordered%20Square.py) | Medium |
+| 43 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Transform%20to%20Chessboard/Transform%20to%20Chessboard.py) | Hard |
+| 44 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -90,6 +91,8 @@
 | 7 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.py) | Easy |
 | 8 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.py) | Easy |
 | 9 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Minimum%20Cost%20Tree%20From%20Leaf%20Values/Minimum%20Cost%20Tree%20From%20Leaf%20Values.py) | Medium |
+| 10 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Simplify%20Path/Simplify%20Path.py) | Medium |
+
 
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -142,7 +145,8 @@
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
 | 1 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
-| 2 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
+| 2 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/As%20Far%20from%20Land%20as%20Possible/As%20Far%20from%20Land%20as%20Possible.py) | Medium |
+| 3 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
 
 ## Greedy
 | Recommend Order | ID | Title | Solution | Difficulty |
