@@ -97,14 +97,16 @@
 ## HashMap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
-| 2 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Binary%20Subarrays%20With%20Sum/Binary%20Subarrays%20With%20Sum.py) | Medium |
-| 3 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
-| 4 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Alphabet%20Board%20Path/Alphabet%20Board%20Path.py) | Medium |
-| 5 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
-| 6 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Analyze%20User%20Website%20Visit%20Pattern/Analyze%20User%20Website%20Visit%20Pattern.py) | Medium |
-| 7 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
-| 8 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/String%20Transforms%20Into%20Another%20String/String%20Transforms%20Into%20Another%20String.py) | Hard |
+| 1 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Single-Row%20Keyboard/Single-Row%20Keyboard.py) | Easy |
+| 2 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
+| 3 | 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Design%20File%20System/Design%20File%20System.py) | Medium |
+| 4 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Binary%20Subarrays%20With%20Sum/Binary%20Subarrays%20With%20Sum.py) | Medium |
+| 5 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero/Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.py) | Hard |
+| 6 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Alphabet%20Board%20Path/Alphabet%20Board%20Path.py) | Medium |
+| 7 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
+| 8 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Analyze%20User%20Website%20Visit%20Pattern/Analyze%20User%20Website%20Visit%20Pattern.py) | Medium |
+| 9 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
+| 10 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/String%20Transforms%20Into%20Another%20String/String%20Transforms%20Into%20Another%20String.py) | Hard |
 
 ## SlidingWindow
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -160,7 +162,8 @@
 | 2 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
 | 3 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
 | 4 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Connecting%20Cities%20With%20Minimum%20Cost/Connecting%20Cities%20With%20Minimum%20Cost.py) | Medium |
-| 5 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
+| 5 | 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Optimize%20Water%20Distribution%20in%20a%20Village/Optimize%20Water%20Distribution%20in%20a%20Village.py) | Hard |
+| 6 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
 
  
 ## Graph
@@ -197,6 +200,7 @@
 ## Heap
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
-| 1 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard | 
-| 2 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
-| 3 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
+| 1 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Connect%20Sticks/Minimum%20Cost%20to%20Connect%20Sticks.py) | Medium |
+| 2 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard | 
+| 3 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
+| 4 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
