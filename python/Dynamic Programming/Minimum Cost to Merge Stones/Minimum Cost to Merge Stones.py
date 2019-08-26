@@ -1,5 +1,10 @@
-class Solution:
-    def mergeStones(self, stones: List[int], K: int) -> int:
+class Solution(object):
+    def mergeStones(self, stones, K):
+        """
+        :type stones: List[int]
+        :type K: int
+        :rtype: int
+        """
         N = len(stones)
         prefix = [0 for i in range(N + 1)]
         for i in range(N):

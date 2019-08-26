@@ -48,7 +48,9 @@
 | 43 | 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Chunks%20To%20Make%20Sorted%20II/Max%20Chunks%20To%20Make%20Sorted%20II.py) | Hard |
 | 44 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Largest%201-Bordered%20Square/Largest%201-Bordered%20Square.py) | Medium |
 | 45 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Transform%20to%20Chessboard/Transform%20to%20Chessboard.py) | Hard |
-| 46 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
+| 46 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Numbers%20At%20Most%20N%20Given%20Digit%20Set/Numbers%20At%20Most%20N%20Given%20Digit%20Set.py) | Hard |
+| 47 | 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Numbers%20With%20Repeated%20Digits/Numbers%20With%20Repeated%20Digits.py) | Hard |
+| 48 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
 
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
