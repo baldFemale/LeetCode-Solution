@@ -84,6 +84,11 @@
 | 26 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/Linked%20List%20Random%20Node/Linked%20List%20Random%20Node.py) | Medium |
 | 27 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/LRU%20Cache/LRU%20Cache.py) | Medium |
 
+## String
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Equal%20Rational%20Numbers/Equal%20Rational%20Numbers.py) | Hard | 
+
 ## Stack
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
