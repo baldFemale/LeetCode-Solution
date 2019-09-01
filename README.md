@@ -131,6 +131,13 @@
 |:----|:----|:----|:----|:----|
 | 1 | 1176 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Bitwise/Number%20of%20Valid%20Words%20for%20Each%20Puzzle/Number%20of%20Valid%20Words%20for%20Each%20Puzzle.py) | Hard |
 
+## Hash
+| Recommend Order | ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|:----|
+| 1 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Hash/Rotate%20String/Rotate%20String.py) | Easy |
+| 2 | 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Hash/Repeated%20String%20Match/Repeated%20String%20Match.py) | Easy |
+| 3 | 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Hash/Longest%20Duplicate%20Substring/Longest%20Duplicate%20Substring.py) | Hard |
+
 ## Tree
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
