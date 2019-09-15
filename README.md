@@ -118,7 +118,7 @@
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Day%20of%20the%20Week/Day%20of%20the%20Week.py) | Easy |
-| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Maximum%20Number%20of%20Balloons/HashMap/Maximum%20Number%20of%20Balloons.py) | Easy |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Maximum%20Number%20of%20Balloons/Maximum%20Number%20of%20Balloons.py) | Easy |
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Single-Row%20Keyboard/Single-Row%20Keyboard.py) | Easy |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
 | 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Design%20File%20System/Design%20File%20System.py) | Medium |

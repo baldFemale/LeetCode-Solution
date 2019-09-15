@@ -42,4 +42,3 @@ class Solution(object):
             if low[v[0]] > dfn[v[1]] or low[v[1]] > dfn[v[0]]:
                 res.append(v)
         return res
-    
