@@ -184,7 +184,7 @@
 |:----|:----|:----|:----|
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/As%20Far%20from%20Land%20as%20Possible/As%20Far%20from%20Land%20as%20Possible.py) | Medium |
-| 1197 | [[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Minimum%20Knight%20Moves/Minimum%20Knight%20Moves.py) | Medium |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Minimum%20Knight%20Moves/Minimum%20Knight%20Moves.py) | Medium |
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
 
 ## Greedy
