@@ -3,6 +3,7 @@
 ## Array
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sort%20Array%20By%20Parity/Sort%20Array%20By%20Parity.py) | Easy |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Distance%20Between%20Bus%20Stops/Distance%20Between%20Bus%20Stops.py) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.py) | Easy |
@@ -179,11 +180,12 @@
 | 1 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Unique%20Paths%20III/Unique%20Paths%20III.py) | Hard |
 
 ## BFS
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
-| 2 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/As%20Far%20from%20Land%20as%20Possible/As%20Far%20from%20Land%20as%20Possible.py) | Medium |
-| 3 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/As%20Far%20from%20Land%20as%20Possible/As%20Far%20from%20Land%20as%20Possible.py) | Medium |
+| 1197 | [[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Minimum%20Knight%20Moves/Minimum%20Knight%20Moves.py) | Medium |
+| 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
 
 ## Greedy
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -237,10 +239,12 @@
 | 23 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
 
 ## Heap
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Connect%20Sticks/Minimum%20Cost%20to%20Connect%20Sticks.py) | Medium |
-| 2 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Dinner%20Plate%20Stacks/Dinner%20Plate%20Stacks.py) | Hard |
-| 3 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard | 
-| 4 | 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
-| 5 | 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Find%20Smallest%20Common%20Element%20in%20All%20Rows/Find%20Smallest%20Common%20Element%20in%20All%20Rows.py) | Medium |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Connect%20Sticks/Minimum%20Cost%20to%20Connect%20Sticks.py) | Medium |
+| 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Dinner%20Plate%20Stacks/Dinner%20Plate%20Stacks.py) | Hard |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard | 
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Cost%20to%20Hire%20K%20Workers/Minimum%20Cost%20to%20Hire%20K%20Workers.py) | Hard|
+| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/K-th%20Smallest%20Prime%20Fraction/K-th%20Smallest%20Prime%20Fraction.py)  | Hard |
+| 1199 | [Minimum Time to Build Blocks](https://leetcode.com/problems/minimum-time-to-build-blocks/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Heap/Minimum%20Time%20to%20Build%20Blocks/Minimum%20Time%20to%20Build%20Blocks.py) | Hard |
