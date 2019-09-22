@@ -12,6 +12,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Fibonacci%20Number/Fibonacci%20Number.py) | Easy |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Find%20Common%20Characters/Find%20Common%20Characters.py) | Easy |
 | 985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sum%20of%20Even%20Numbers%20After%20Queries/Sum%20of%20Even%20Numbers%20After%20Queries.py) | Easy |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Minimum%20Absolute%20Difference/Minimum%20Absolute%20Difference.py) | Easy |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Height%20Checker/Height%20Checker.py) | Easy |
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Fair%20Candy%20Swap/Fair%20Candy%20Swap.py) | Easy |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py) | Easy |
@@ -157,16 +158,17 @@
 
 
 ## Binary Search
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Snapshot%20Array/Snapshot%20Array.py) | Medium |
-| 2 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py) | Medium |
-| 3 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Shortest%20Distance%20to%20Target%20Color/Shortest%20Distance%20to%20Target%20Color.py) | Medium |
-| 4 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Online%20Majority%20Element%20In%20Subarray/Online%20Majority%20Element%20In%20Subarray.py) | Hard |
-| 5 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
-| 6 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
-| 7 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
-| 8 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Snapshot%20Array/Snapshot%20Array.py) | Medium |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py) | Medium |
+| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Shortest%20Distance%20to%20Target%20Color/Shortest%20Distance%20to%20Target%20Color.py) | Medium |
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Online%20Majority%20Element%20In%20Subarray/Online%20Majority%20Element%20In%20Subarray.py) | Hard |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Ugly%20Number%20III/Ugly%20Number%20III.py) | Medium | 
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
+| 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
+| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -194,14 +196,15 @@
 | 2 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Longest%20Chunked%20Palindrome%20Decomposition/Longest%20Chunked%20Palindrome%20Decomposition.py) | Hard |
 
 ## Union Find
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
-| 2 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
-| 3 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
-| 4 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Connecting%20Cities%20With%20Minimum%20Cost/Connecting%20Cities%20With%20Minimum%20Cost.py) | Medium |
-| 5 | 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Optimize%20Water%20Distribution%20in%20a%20Village/Optimize%20Water%20Distribution%20in%20a%20Village.py) | Hard |
-| 6 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| # | DSU Structure | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/DSU%20Structure/DSU%20Structure.py) | None |
+| 1202| [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Smallest%20String%20With%20Swaps/Smallest%20String%20With%20Swaps.py) | Medium |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.py) | Medium |
+| 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Accounts%20Merge/Accounts%20Merge.py) | Medium |
+| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Connecting%20Cities%20With%20Minimum%20Cost/Connecting%20Cities%20With%20Minimum%20Cost.py) | Medium |
+| 1168 | [Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Optimize%20Water%20Distribution%20in%20a%20Village/Optimize%20Water%20Distribution%20in%20a%20Village.py) | Hard |
+| 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Union%20Find/Minimize%20Malware%20Spread/Minimize%20Malware%20Spread.py) | Hard |
 
  
 ## Graph
@@ -209,6 +212,7 @@
 |:----|:----|:----|:----|
 | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Cheapest%20Flights%20Within%20K%20Stops/Cheapest%20Flights%20Within%20K%20Stops.py) | Medium |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Parallel%20Courses/Parallel%20Courses.py) | Hard |
+| 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Sort%20Items%20by%20Groups%20Respecting%20Dependencies/Sort%20Items%20by%20Groups%20Respecting%20Dependencies.py) | Hard |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Graph/Critical%20Connections%20in%20a%20Network/Critical%20Connections%20in%20a%20Network.py) | Hard |
 
 ## Dynamic Programming
