@@ -120,7 +120,7 @@
 ## HashSet
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
-| 1213 | [Intersection of Three Sorted Arrays]() | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashSet/Intersection%20of%20Three%20Sorted%20Arrays/Intersection%20of%20Three%20Sorted%20Arrays.py) | Easy |
+| 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/Intersection-of-Three-Sorted-Arrays) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashSet/Intersection%20of%20Three%20Sorted%20Arrays/Intersection%20of%20Three%20Sorted%20Arrays.py) | Easy |
 
 ## HashMap
 | ID | Title | Solution | Difficulty |
@@ -159,7 +159,7 @@
 ## Tree
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
-| 1214 | [Two Sum BSTs]() | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Two%20Sum%20BSTs/Two%20Sum%20BSTs.py) | Medium |
+| 1214 | [Two Sum BSTs](https://leetcode.com/problems/Two-Sum-BSTs) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Two%20Sum%20BSTs/Two%20Sum%20BSTs.py) | Medium |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Binary%20Tree%20Coloring%20Game/Binary%20Tree%20Coloring%20Game.py) | Medium |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
@@ -193,7 +193,7 @@
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20with%20Alternating%20Colors/Shortest%20Path%20with%20Alternating%20Colors.py) | Medium |
-| 1215 | [Stepping Numbers]() | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Stepping%20Numbers/Stepping%20Numbers.py) | Medium |
+| 1215 | [Stepping Numbers](https://leetcode.com/problems/Stepping-Numbers) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Stepping%20Numbers/Stepping%20Numbers.py) | Medium |
 | 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/As%20Far%20from%20Land%20as%20Possible/As%20Far%20from%20Land%20as%20Possible.py) | Medium |
 | 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Minimum%20Knight%20Moves/Minimum%20Knight%20Moves.py) | Medium |
 | 1210 | [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations/Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations.py) | Hard |
@@ -232,7 +232,7 @@
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum/Minimum%20Falling%20Path%20Sum.py) | Medium |
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Knight%20Dialer/Knight%20Dialer.py) | Medium |
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Cost%20For%20Tickets/Minimum%20Cost%20For%20Tickets.py) | Medium |
-| 1216| [Valid Palindrome III]() | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Valid%20Palindrome%20III/Valid%20Palindrome%20III.py) | Hard |
+| 1216| [Valid Palindrome III](https://leetcode.com/problems/Valid-Palindrome-III) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Valid%20Palindrome%20III/Valid%20Palindrome%20III.py) | Hard |
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Number%20of%20Subarrays%20with%20Bounded%20Maximum/Number%20of%20Subarrays%20with%20Bounded%20Maximum.py) | Medium |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences/Distinct%20Subsequences.py) | Hard |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Dungeon%20Game/Dungeon%20Game.py) | Hard |
