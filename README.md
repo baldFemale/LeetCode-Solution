@@ -65,6 +65,7 @@
 | 1012 | [Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Numbers%20With%20Repeated%20Digits/Numbers%20With%20Repeated%20Digits.py) | Hard |
 | 689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays/Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.py) | Hard |
 
+
 ## LinkedList
 | Recommend Order | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|:----|
@@ -126,6 +127,7 @@
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Day%20of%20the%20Week/Day%20of%20the%20Week.py) | Easy |
+| 1217 | [Play with Chips](https://leetcode.com/problems/Play-with-Chips) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Play%20with%20Chips/Play%20with%20Chips.py) | Easy |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Maximum%20Number%20of%20Balloons/Maximum%20Number%20of%20Balloons.py) | Easy |
 | 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Single-Row%20Keyboard/Single-Row%20Keyboard.py) | Easy |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |[python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.py) | Easy |
@@ -185,9 +187,10 @@
 | 2 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
 
 ## DFS
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Unique%20Paths%20III/Unique%20Paths%20III.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/Path-with-Maximum-Gold) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Path%20with%20Maximum%20Gold/Path%20with%20Maximum%20Gold.py) | Medium | 
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Unique%20Paths%20III/Unique%20Paths%20III.py) | Hard |
 
 ## BFS
 | ID | Title | Solution | Difficulty |
@@ -228,6 +231,8 @@
 ## Dynamic Programming
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/Longest-Arithmetic-Subsequence-of-Given-Difference) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.py) | Medium |
+| 1220 | [Count Vowels Permutation](https://leetcode.com/problems/Count-Vowels-Permutation) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Count%20Vowels%20Permutation/Count%20Vowels%20Permutation.py) | Hard |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Longest%20Common%20Subsequence/Longest%20Common%20Subsequence.py) | Medium |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum/Minimum%20Falling%20Path%20Sum.py) | Medium |
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Knight%20Dialer/Knight%20Dialer.py) | Medium |
