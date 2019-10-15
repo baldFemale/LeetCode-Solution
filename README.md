@@ -18,6 +18,7 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Unique%20Number%20of%20Occurrences/Unique%20Number%20of%20Occurrences.py) | Easy |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum/Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.py) | Easy |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Monotonic%20Array/Monotonic%20Array.py) | Easy |
+| 1122 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Queens%20That%20Can%20Attack%20the%20King/Queens%20That%20Can%20Attack%20the%20King.py) | Medium |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Duplicate%20Zeros/Duplicate%20Zeros.py) | Easy | 
 | 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Maximum%20of%20Absolute%20Value%20Expression/Maximum%20of%20Absolute%20Value%20Expression.py) | Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Max%20Consecutive%20Ones/Max%20Consecutive%20Ones.py) | Easy |
@@ -98,9 +99,10 @@
 | 27 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/LinkedList/LRU%20Cache/LRU%20Cache.py) | Medium |
 
 ## String
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Equal%20Rational%20Numbers/Equal%20Rational%20Numbers.py) | Hard | 
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Split%20a%20String%20in%20Balanced%20Strings/Split%20a%20String%20in%20Balanced%20Strings.py) | Easy |
+| 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Equal%20Rational%20Numbers/Equal%20Rational%20Numbers.py) | Hard | 
 
 ## Stack
 | ID | Title | Solution | Difficulty |
@@ -138,6 +140,7 @@
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Longest%20Well-Performing%20Interval/Longest%20Well-Performing%20Interval.py) | Medium |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Analyze%20User%20Website%20Visit%20Pattern/Analyze%20User%20Website%20Visit%20Pattern.py) | Medium |
 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Minimum%20Area%20Rectangle/Minimum%20Area%20Rectangle.py) | Medium |
+| 1224 |[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/Maximum%20Equal%20Frequency/Maximum%20Equal%20Frequency.py) | Hard |
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/String%20Transforms%20Into%20Another%20String/String%20Transforms%20Into%20Another%20String.py) | Hard |
 
 ## SlidingWindow
@@ -232,6 +235,7 @@
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/Longest-Arithmetic-Subsequence-of-Given-Difference) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.py) | Medium |
+| 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Dice%20Roll%20Simulation/Dice%20Roll%20Simulation.py) | Medium |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/Count-Vowels-Permutation) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Count%20Vowels%20Permutation/Count%20Vowels%20Permutation.py) | Hard |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Longest%20Common%20Subsequence/Longest%20Common%20Subsequence.py) | Medium |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Falling%20Path%20Sum/Minimum%20Falling%20Path%20Sum.py) | Medium |
