@@ -176,7 +176,7 @@
 ## Trie
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
-| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/TrieRemove%20Sub-Folders%20from%20the%20Filesystem/TrieRemove%20Sub-Folders%20from%20the%20Filesystem.py) | Medium |
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Trie/Remove%20Sub-Folders%20from%20the%20Filesystem/TrieRemove%20Sub-Folders%20from%20the%20Filesystem.py) | Medium |
 
 ## Binary Search
 | ID | Title | Solution | Difficulty |
