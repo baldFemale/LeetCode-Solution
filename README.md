@@ -5,6 +5,7 @@
 |:----|:----|:----|:----|
 | 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py) | Easy |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Missing%20Number%20In%20Arithmetic%20Progression/Missing%20Number%20In%20Arithmetic%20Progression.py) | Easy |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Check%20If%20It%20Is%20a%20Straight%20Line/Check%20If%20It%20Is%20a%20Straight%20Line.py) | Easy |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Sort%20Array%20By%20Parity/Sort%20Array%20By%20Parity.py) | Easy |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Distance%20Between%20Bus%20Stops/Distance%20Between%20Bus%20Stops.py) | Easy |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.py) | Easy |
@@ -150,6 +151,7 @@
 |:----|:----|:----|:----|:----|
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Subarrays%20with%20K%20Different%20Integers/Subarrays%20with%20K%20Different%20Integers.py) | Hard |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Get%20Equal%20Substrings%20Within%20Budget/Get%20Equal%20Substrings%20Within%20Budget.py) | Medium |
+| 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Replace%20the%20Substring%20for%20Balanced%20String/Replace%20the%20Substring%20for%20Balanced%20String.py) | Medium |
 
 ## Bitwise
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -171,6 +173,10 @@
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
 
+## Trie
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/TrieRemove%20Sub-Folders%20from%20the%20Filesystem/TrieRemove%20Sub-Folders%20from%20the%20Filesystem.py) | Medium |
 
 ## Binary Search
 | ID | Title | Solution | Difficulty |
@@ -259,6 +265,7 @@
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Can%20I%20Win/Can%20I%20Win.py) | Medium |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Toss%20Strange%20Coins/Toss%20Strange%20Coins.py) | Medium |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Guess%20Number%20Higher%20or%20Lower%20II/Guess%20Number%20Higher%20or%20Lower%20II.py) | Medium |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Profit%20in%20Job%20Scheduling/Maximum%20Profit%20in%20Job%20Scheduling.py) | Hard |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences%20II/Distinct%20Subsequences%20II.py) | Hard |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Make%20Array%20Strictly%20Increasing/Make%20Array%20Strictly%20Increasing.py) | Hard |
