@@ -154,9 +154,11 @@
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Replace%20the%20Substring%20for%20Balanced%20String/Replace%20the%20Substring%20for%20Balanced%20String.py) | Medium |
 
 ## Bitwise
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Bitwise/Number%20of%20Valid%20Words%20for%20Each%20Puzzle/Number%20of%20Valid%20Words%20for%20Each%20Puzzle.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Bitwise/Circular%20Permutation%20in%20Binary%20Representation/Circular%20Permutation%20in%20Binary%20Representation.py) | Medium |
+| 1178 | [Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Bitwise/Number%20of%20Valid%20Words%20for%20Each%20Puzzle/Number%20of%20Valid%20Words%20for%20Each%20Puzzle.py) | Hard |
+
 
 ## Hash
 | Recommend Order | ID | Title | Solution | Difficulty |
@@ -181,6 +183,7 @@
 ## Binary Search
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | Easy |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Snapshot%20Array/Snapshot%20Array.py) | Medium |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py) | Medium |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Shortest%20Distance%20to%20Target%20Color/Shortest%20Distance%20to%20Target%20Color.py) | Medium |
@@ -261,6 +264,8 @@
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Largest%20Divisible%20Subset/Largest%20Divisible%20Subset.py) | Medium |
 | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Numbers%20With%20Same%20Consecutive%20Differences/Numbers%20With%20Same%20Consecutive%20Differences.py) | Medium |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Number%20of%20Dice%20Rolls%20With%20Target%20Sum/Number%20of%20Dice%20Rolls%20With%20Target%20Sum.py) | Medium |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.py) | Medium |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares/Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares.py) | Hard |
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Frog%20Jump/Frog%20Jump.py) | Hard |
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Can%20I%20Win/Can%20I%20Win.py) | Medium |
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Toss%20Strange%20Coins/Toss%20Strange%20Coins.py) | Medium |
