@@ -3,6 +3,7 @@
 ## Array
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Array%20Transformation/Array%20Transformation.py) | Easy |
 | 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py) | Easy |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Missing%20Number%20In%20Arithmetic%20Progression/Missing%20Number%20In%20Arithmetic%20Progression.py) | Easy |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Check%20If%20It%20Is%20a%20Straight%20Line/Check%20If%20It%20Is%20a%20Straight%20Line.py) | Easy |
@@ -173,6 +174,7 @@
 | 1214 | [Two Sum BSTs](https://leetcode.com/problems/Two-Sum-BSTs) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Two%20Sum%20BSTs/Two%20Sum%20BSTs.py) | Medium |
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Binary%20Tree%20Coloring%20Game/Binary%20Tree%20Coloring%20Game.py) | Medium |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
+| 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Tree%20Diameter/Tree%20Diameter.py) | Medium |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
 
 ## Trie
@@ -184,6 +186,7 @@
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
 | 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation/Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py) | Easy |
+| 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Design%20A%20Leaderboard/Design%20A%20Leaderboard.py) | Medium |
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Snapshot%20Array/Snapshot%20Array.py) | Medium |
 | 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character/Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.py) | Medium |
 | 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Shortest%20Distance%20to%20Target%20Color/Shortest%20Distance%20to%20Target%20Color.py) | Medium |
@@ -274,6 +277,7 @@
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences%20II/Distinct%20Subsequences%20II.py) | Hard |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Make%20Array%20Strictly%20Increasing/Make%20Array%20Strictly%20Increasing.py) | Hard |
+| 1246 | [Palindrome Removal](https://leetcode.com/problems/palindrome-removal/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Palindrome%20Removal/Palindrome%20Removal.py) | Hard |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.py) | Hard |
 | 956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Tallest%20Billboard/Tallest%20Billboard.py) | Hard |
 | 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Smallest%20Sufficient%20Team/Smallest%20Sufficient%20Team.py) | Hard |
