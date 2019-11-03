@@ -151,8 +151,8 @@
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/HashMap/String%20Transforms%20Into%20Another%20String/String%20Transforms%20Into%20Another%20String.py) | Hard |
 
 ## SlidingWindow
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Count%20Number%20of%20Nice%20Subarrays/Count%20Number%20of%20Nice%20Subarrays.py) | Medium |
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sliding%20Window/Subarrays%20with%20K%20Different%20Integers/Subarrays%20with%20K%20Different%20Integers.py) | Hard |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Get%20Equal%20Substrings%20Within%20Budget/Get%20Equal%20Substrings%20Within%20Budget.py) | Medium |
