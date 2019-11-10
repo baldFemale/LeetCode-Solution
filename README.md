@@ -3,6 +3,7 @@
 ## Array
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Cells%20with%20Odd%20Values%20in%20a%20Matrix/Cells%20with%20Odd%20Values%20in%20a%20Matrix.py) | Easy |
 | 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Array%20Transformation/Array%20Transformation.py) | Easy |
 | 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.py) | Easy |
 | 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Missing%20Number%20In%20Arithmetic%20Progression/Missing%20Number%20In%20Arithmetic%20Progression.py) | Easy |
@@ -211,6 +212,7 @@
 ## DFS
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Number%20of%20Closed%20Islands/Number%20of%20Closed%20Islands.py) | Medium |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/Path-with-Maximum-Gold) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Path%20with%20Maximum%20Gold/Path%20with%20Maximum%20Gold.py) | Medium | 
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/DFS/Unique%20Paths%20III/Unique%20Paths%20III.py) | Hard |
 
@@ -225,10 +227,11 @@
 | 847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/BFS/Shortest%20Path%20Visiting%20All%20Nodes/Shortest%20Path%20Visiting%20All%20Nodes.py) | Hard |
 
 ## Greedy
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Broken%20Calculator/Broken%20Calculator.py) | Medium |
-| 2 | 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Longest%20Chunked%20Palindrome%20Decomposition/Longest%20Chunked%20Palindrome%20Decomposition.py) | Hard |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Reconstruct%20a%202-Row%20Binary%20Matrix/Reconstruct%20a%202-Row%20Binary%20Matrix.py) | Medium |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Broken%20Calculator/Broken%20Calculator.py) | Medium |
+| 1147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Greedy/Longest%20Chunked%20Palindrome%20Decomposition/Longest%20Chunked%20Palindrome%20Decomposition.py) | Hard |
 
 ## Union Find
 | ID | Title | Solution | Difficulty |
@@ -278,6 +281,7 @@
 | 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Toss%20Strange%20Coins/Toss%20Strange%20Coins.py) | Medium |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Guess%20Number%20Higher%20or%20Lower%20II/Guess%20Number%20Higher%20or%20Lower%20II.py) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Profit%20in%20Job%20Scheduling/Maximum%20Profit%20in%20Job%20Scheduling.py) | Hard |
+| 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Score%20Words%20Formed%20by%20Letters/Maximum%20Score%20Words%20Formed%20by%20Letters.py) | Hard |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences%20II/Distinct%20Subsequences%20II.py) | Hard |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Make%20Array%20Strictly%20Increasing/Make%20Array%20Strictly%20Increasing.py) | Hard |
