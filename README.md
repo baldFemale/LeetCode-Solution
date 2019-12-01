@@ -107,6 +107,7 @@
 ## String
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1271 | [Hexspeak](https://leetcode.com/problems/hexspeak/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Hexspeak/Hexspeak.py) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Split%20a%20String%20in%20Balanced%20Strings/Split%20a%20String%20in%20Balanced%20Strings.py) | Easy |
 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Equal%20Rational%20Numbers/Equal%20Rational%20Numbers.py) | Hard | 
 
@@ -180,6 +181,7 @@
 | 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Binary%20Tree%20Coloring%20Game/Binary%20Tree%20Coloring%20Game.py) | Medium |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.py) | Medium |
 | 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Tree%20Diameter/Tree%20Diameter.py) | Medium |
+| 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Delete%20Tree%20Nodes/Delete%20Tree%20Nodes.py) | Medium |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Tree/Scramble%20String/Scramble%20String.py) | Hard |
 
 ## Trie
@@ -198,16 +200,18 @@
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Online%20Majority%20Element%20In%20Subarray/Online%20Majority%20Element%20In%20Subarray.py) | Hard |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array%20II/Search%20in%20Rotated%20Sorted%20Array%20II.py) | Medium |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Ugly%20Number%20III/Ugly%20Number%20III.py) | Medium | 
+| 1274 | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Number%20of%20Ships%20in%20a%20Rectangle/Number%20of%20Ships%20in%20a%20Rectangle.py) | Hard |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py) | Hard |
 | 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Kth%20Smallest%20Number%20in%20Multiplication%20Table/Kth%20Smallest%20Number%20in%20Multiplication%20Table.py) | Hard |
 | 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Divide%20Chocolate/Divide%20Chocolate.py) | Hard |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Binary%20Search/Find%20K-th%20Smallest%20Pair%20Distance/Find%20K-th%20Smallest%20Pair%20Distance.py) | Hard |
 
 ## Sort
-| Recommend Order | ID | Title | Solution | Difficulty |
-|:----|:----|:----|:----|:----|
-| 1 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
-| 2 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1272| [Remove Interval](https://leetcode.com/problems/remove-interval/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Remove%20Interval/Remove%20Interval.py) | Medium |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/Relative%20Sort%20Array/Relative%20Sort%20Array.py) | Easy |
+| 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Sort/K%20Closest%20Points%20to%20Origin/K%20Closest%20Points%20to%20Origin.py) | Medium |
 
 ## DFS
 | ID | Title | Solution | Difficulty |
