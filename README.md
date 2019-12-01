@@ -56,6 +56,7 @@
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Can%20Make%20Palindrome%20from%20Substring/Can%20Make%20Palindrome%20from%20Substring.py) | Medium |
 | 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Decrease%20Elements%20To%20Make%20Array%20Zigzag/Decrease%20Elements%20To%20Make%20Array%20Zigzag.py) | Medium |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)/Insert%20Delete%20GetRandom%20O(1).py) | Medium |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Count%20Square%20Submatrices%20with%20All%20Ones/Count%20Square%20Submatrices%20with%20All%20Ones.py) | Medium |
 | 1163 | [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Last%20Substring%20in%20Lexicographical%20Order/Last%20Substring%20in%20Lexicographical%20Order.py) | Hard |
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.py) | Hard |
 | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Array/Interval%20List%20Intersections/Interval%20List%20Intersections.py) | Medium |
@@ -107,9 +108,16 @@
 ## String
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.py) | Easy |
 | 1271 | [Hexspeak](https://leetcode.com/problems/hexspeak/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Hexspeak/Hexspeak.py) | Easy |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Split%20a%20String%20in%20Balanced%20Strings/Split%20a%20String%20in%20Balanced%20Strings.py) | Easy |
 | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/String/Equal%20Rational%20Numbers/Equal%20Rational%20Numbers.py) | Hard | 
+
+## Math
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Math/Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients/Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients.py) | Medium |
+
 
 ## Stack
 | ID | Title | Solution | Difficulty |
@@ -286,6 +294,7 @@
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Guess%20Number%20Higher%20or%20Lower%20II/Guess%20Number%20Higher%20or%20Lower%20II.py) | Medium |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Profit%20in%20Job%20Scheduling/Maximum%20Profit%20in%20Job%20Scheduling.py) | Hard |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Maximum%20Score%20Words%20Formed%20by%20Letters/Maximum%20Score%20Words%20Formed%20by%20Letters.py) | Hard |
+| 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Palindrome%20Partitioning%20III/Palindrome%20Partitioning%20III.py) | Hard |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Distinct%20Subsequences%20II/Distinct%20Subsequences%20II.py) | Hard |
 | 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Minimum%20Number%20of%20Refueling%20Stops/Minimum%20Number%20of%20Refueling%20Stops.py) | Hard |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Dynamic%20Programming/Make%20Array%20Strictly%20Increasing/Make%20Array%20Strictly%20Increasing.py) | Hard |
