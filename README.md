@@ -142,7 +142,7 @@
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Permutations/Permutations.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Permutations%20II/Permutations%20II.py) | Medium |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Subsets/Subsets.py) | Medium |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Subsets%20II/Subsets%20ii.py) | Medium |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Subsets%20II/Subsets%20II.py) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Combination%20Sum/Combination%20Sum.py) | Medium |
 
 
