@@ -136,6 +136,13 @@
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Simplify%20Path/Simplify%20Path.py) | Medium |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.py) | Medium |
 
+## Backtrack
+| ID | Title | Solution | Difficulty |
+|:----|:----|:----|:----|
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Permutations/Permutations.py) | Medium |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Permutations%20II/Permutations%20II.py) | Medium |
+
+
 ## HashSet
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
