@@ -122,6 +122,7 @@
 ## Stack
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Valid%20Parentheses/Valid%20Parentheses.py) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Remove%20All%20Adjacent%20Duplicates%20In%20String/Remove%20All%20Adjacent%20Duplicates%20In%20String.py) | Easy |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Baseball%20Game/Baseball%20Game.py) | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Stack/Remove%20Outermost%20Parentheses/Remove%20Outermost%20Parentheses.py) | Easy |
@@ -144,8 +145,9 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Subsets/Subsets.py) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Subsets%20II/Subsets%20II.py) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Combination%20Sum/Combination%20Sum.py) | Medium |
-
-
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Combination%20Sum%20II/Combination%20Sum%20II.py) | Medium |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [python](https://github.com/baldFemale/LeetCode-Solution/blob/master/python/Backtrack/Combination%20Sum%20III/Combination%20Sum%20III.py) | Medium |
+ 
 ## HashSet
 | ID | Title | Solution | Difficulty |
 |:----|:----|:----|:----|
